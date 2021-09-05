@@ -1,0 +1,79 @@
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/npo1.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 2 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/npo2.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 2 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 2 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 3 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/npo3.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 3 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 3 (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO Nieuws (met epg via Ziggo)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO Nieuws
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO Politiek (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO Politiek (EPG 23.5E)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++NL amateur-tv++
+127.0.0.1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",++Stream NL regionaal & lokaal++
+null
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Friesland/Groningen/Drenthe+++
+127.0.0.1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Podium.TV 1
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Podium TV 2
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Podium TV 3
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Friesland+++
+127.0.0.1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Frysl√¢n HD
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Centraal TV (Weststellingerwerf)
+http://olon.ctl.cdn.ebsd.ericsson.net/L9A/8773632e/bdc062c5.isml/.master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep S√∫dwest Fryslan
+http://olon.ctl.cdn.ebsd.ericsson.net/L9B/7dce60ec/ee1da019.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF (Noordoost Friesland)
+http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF webcam radio (Noordoost-Friesland)
+https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Groningen+++
+127.0.0.1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Noord
+http://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Noord Live extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Het Hogeland (WInsum. Groningen)
+http://olon.ctl.cdn.ebsd.ericsson.net/L9A/7337d23b/bd85ae5c.isml/.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OOG TV (Groningen)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/e19facbc/30832f35.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RegioTV (midden Groningen)
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV 1 (Stadsknaal/Veendam)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/d020f735/d1d99527.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV GO! (Oldambt Groningen)
+https://59132e529e3d1.streamlock.net/Groningen1/Groningen1/chunklist_w1958262376.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Westerwolde
+http://59132e529e3d1.streamlock.net/westerwolde/westerwolde/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Simone FM
+http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Drenthe+++
+127.0.0.1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe HD
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe HD alternatief
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe (epg Ziggo)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Assen (Drenthe)
